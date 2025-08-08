@@ -4,7 +4,8 @@ An intelligent, automated thumbnail optimization SaaS tool built for YouTube cre
 It dynamically swaps thumbnails based on live performance data like views, likes, top comments, any events/festivals and more — boosting CTR and streamlining creative workflows.
 
 > **Set it. Forget it. Grow your channel.**
-> Clickbait? Nah. Smart Thumbnail
+
+> **Clickbait? Nah. Smart Thumbnail.**
 
 ---
 

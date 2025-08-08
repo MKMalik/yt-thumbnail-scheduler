@@ -13,3 +13,5 @@ func main() {
     
   log.Fatal(http.ListenAndServe(":8080", nil));
 }
+
+// https://excalidraw.com/#room=67ce4b2c35022cf242fa,YfqrTC_EZTsNXaALnYH6Aw
